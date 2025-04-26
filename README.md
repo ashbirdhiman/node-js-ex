@@ -36,7 +36,7 @@ calc.multiply(4, 2); // Returns: 8
 ```
 
 ### REST API Endpoints
-- GET `/` - Returns "Hello World!"
+- GET `/` - Get parameter using query Returns "Hello ${name}!"
 - GET `/add/:a/:b` - Returns sum of two numbers
 
 Example:
